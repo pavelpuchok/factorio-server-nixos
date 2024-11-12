@@ -1,0 +1,5 @@
+.terraform/
+.devenv/
+nixos/
+devenv.*
+.envrc
