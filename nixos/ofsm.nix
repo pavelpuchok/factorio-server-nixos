@@ -29,7 +29,7 @@ in
         RCON_PASS = "";
         DOMAIN_NAME = "${fs_domain_name}";
         EMAIL_ADDRESS = "${fs_cert_email}";
-        FACTORIO_VERSION = "2.0.15";
+        #FACTORIO_VERSION = "2.0.15";
       };
 
       labels = {
